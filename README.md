@@ -1,35 +1,33 @@
 # playwrigth-screenplay
 
---------------------------------------
------ CASOS DE PRUEBA SAUCE DEMO -----
---------------------------------------
+# Set de pruebas
+## Website - Sauce Demo 💵
 
-1) LOGIN
+## 1) LOGIN 👨🏻
 
-- INICIO DE SESIÓN.
-- INICIO DE SESIÓN CON CAMPOS VACÍOS.
-- INICIO DE SESIÓN SOLO CON USUARIO.
-- INICIO DE SESIÓN SOLO CONTRASEÑA.
-- INICIO DE SESIÓN CON USUARIO FAKE.
+- Inicio de sesión. []
+- Inicio de sesión con campos vacíos. []
+- Inicio de sesión solo con usuario. []
+- Inicio de sesión solo con contraseña. []
+- Inicio de sesión usuario no registrado. []
 
-2) SELECCIONAR ARTÍCULOS
+## 2) SELECCIONAR ARTÍCULOS 👔👖
 
-- SELECCIONAR UN ARTÍCULO.
-- SELECCIONAR VARIOS ARTÍCULOS.
-- SELECCIONAR TODOS LOS ARTÍCULOS.
-- SELECCIONAR Y QUITAR EL MISMO ARTÍCULO SELECCIONADO.
-- SELECCIONAR Y QUITAR TODOS LOS ARTÍCULOS.
+- Seleccionar un artículo. []
+- Seleccionar varíos artículos. []
+- Seleccionar todos los artículos. []
+- Seleccionar y quitar el mismo artículo seleccionado. []
+- Seleccionar y quitar todos los artículos. []
 
-3) CARRITO
+## 3) CARRITO 🛒
 
-- VALIDAR ARTÍCULOS SELECCIONADOS.
-- ELIMINAR ARTÍCULOS DESDE EL CARRITO.
+- Validar artículos seleccionados. []
+- Eliminar artículos desde el carrito. []
 
-4) FINALIZAR VENTA
+## 4) FINALIZAR VENTA ✅
 
-- FINALIZAR VENTA CON TODOS DATOS.
-- FINALIZAR VENTA SOLO CON EL PRIMER DATO.
-- FINALIZAR VENTA CON DOS DATOS.
-- FINALIZAT VENTA CON TRES DATOS.
-- VALIDAR VALLOR FINAL DE LA VENTA.
-- VALIDAR MENSAJE DE FINALIZACIÓN DE TRANSACCIÓN.
+- Finalizar la venta con todos los datos.
+- Finalizar la venta solo con el primer dato.
+- Finalizar la venta solo con dos datos.
+- Validar el valot final de la venta.
+- Validar el mensaje de finalización de transacción.
