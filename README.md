@@ -1,4 +1,4 @@
-# playwrigth-screenplay
+# Playwrigth
 
 # Set de pruebas
 ## Website - Sauce Demo 💵
