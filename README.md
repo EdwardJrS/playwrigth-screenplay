@@ -32,7 +32,7 @@
 - Validar el valot final de la venta.
 - Validar el mensaje de finalización de transacción.
 
-## specs
+## Technologies 👨🏻‍💻
 
 - ![Static Badge](https://img.shields.io/badge/node-20.17.0-brightgreen)
 - ![Static Badge](https://img.shields.io/badge/Playwright-1.54.1-orange)
