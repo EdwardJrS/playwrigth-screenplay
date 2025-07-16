@@ -7,8 +7,8 @@
 
 - Inicio de sesión. [✅]
 - Inicio de sesión con campos vacíos. [✅]
-- Inicio de sesión solo con usuario. []
-- Inicio de sesión solo con contraseña. []
+- Inicio de sesión solo con usuario. [✅]
+- Inicio de sesión solo con contraseña. [✅]
 - Inicio de sesión usuario no registrado. []
 
 ## 2) Seleccionar Artículos 👔👖
@@ -34,7 +34,7 @@
 
 ## Technologies 👨🏻‍💻
 
-- ![Static Badge](https://img.shields.io/badge/node-20.17.0-brightgreen)
+- ![Static Badge](https://img.shields.io/badge/NodeJS-20.17.0-brightgreen)
 - ![Static Badge](https://img.shields.io/badge/Playwright-1.54.1-orange)
 - ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 
