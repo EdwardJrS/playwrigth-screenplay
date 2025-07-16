@@ -6,7 +6,7 @@
 ## 1) Login 👨🏻
 
 - Inicio de sesión. [✅]
-- Inicio de sesión con campos vacíos. []
+- Inicio de sesión con campos vacíos. [✅]
 - Inicio de sesión solo con usuario. []
 - Inicio de sesión solo con contraseña. []
 - Inicio de sesión usuario no registrado. []
