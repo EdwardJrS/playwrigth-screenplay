@@ -2,6 +2,24 @@
 
 En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin buenas practicas y sin patrones de diseño. Lo unico que se tuvo en cuenta fue organizar la funcionalidades por carpeta.
 
+```
++---tests
+|   |   example.spec.ts
+|   |   
+|   +---complete-purchase
+|   +---login-tests
+|   |       login-just-with-password.spec.ts
+|   |       login-just-with-username.spec.ts
+|   |       login-unknow-user.spec.ts
+|   |       login-with-empty-fields.spec.ts
+|   |       login-with-locked-user.spec.ts
+|   |       login.spec.ts
+|   |       logout.spec.ts
+|   |       
+|   +---select-products
+|   \---shopping-cart
+```
+
 # Set de pruebas
 ## Website - Sauce Demo 💵
 
