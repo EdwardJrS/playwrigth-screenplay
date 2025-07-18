@@ -76,4 +76,5 @@ Is absolutely necessary install all package when you has cloned the repo recentl
 ### Several commands
 
 - `npx playwright test` - Runs the end-to-end tests.
-- 
+- `tree /F /A > estructura.txt` - View project structure.
+
