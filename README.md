@@ -20,7 +20,7 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 |   \---shopping-cart
 ```
 
-# Set de pruebas
+# Set de pruebas ⚗️🧪
 ## Website - Sauce Demo 💵
 
 ## 1) Login 👨🏻
@@ -35,7 +35,7 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 
 ## 2) Seleccionar Artículos 👔👖
 
-- Seleccionar un artículo. []
+- Seleccionar un artículo. [✅]
 - Seleccionar varíos artículos. []
 - Seleccionar todos los artículos. []
 - Seleccionar y quitar el mismo artículo seleccionado. []
