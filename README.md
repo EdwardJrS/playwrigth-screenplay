@@ -1,5 +1,7 @@
 # Playwrigth 🎭
 
+En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin buenas practicas y sin patrones de diseño. Lo unico que se tuvo en cuenta fue organizar la funcionalidades por carpeta.
+
 # Set de pruebas
 ## Website - Sauce Demo 💵
 
@@ -9,7 +11,9 @@
 - Inicio de sesión con campos vacíos. [✅]
 - Inicio de sesión solo con usuario. [✅]
 - Inicio de sesión solo con contraseña. [✅]
-- Inicio de sesión usuario no registrado. []
+- Inicio de sesión usuario no registrado. [✅]
+- Inicio de sesión con usuario bloqueado. [✅]
+- Cierre de sesión. [✅]
 
 ## 2) Seleccionar Artículos 👔👖
 
