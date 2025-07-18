@@ -58,7 +58,7 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 
 - ![Static Badge](https://img.shields.io/badge/NodeJS-20.17.0-brightgreen)
 - ![Static Badge](https://img.shields.io/badge/Playwright-1.54.1-orange)
-- ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+- ![Static Badge](https://img.shields.io/badge/TypeScript-5.8-blue)
 
 # How To Install
 
