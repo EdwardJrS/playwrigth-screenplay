@@ -1,6 +1,6 @@
 # Playwrigth 🎭
 
-En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin buenas practicas y sin patrones de diseño. Lo unico que se tuvo en cuenta fue organizar la funcionalidades por carpeta.
+En esta rama se realizó un desarrollo simple, sin reutilización de código, sin buenas prácticas y sin patrones de diseño. Lo único que se tuvo en cuenta fue organizar la funcionalidades por carpeta.
 
 ```
 +---tests
@@ -56,11 +56,11 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 
 ## 4) Finalizar venta ✅
 
-- Finalizar la venta con todos los datos.
-- Finalizar la venta solo con el primer dato.
-- Finalizar la venta solo con dos datos.
-- Validar el valot final de la venta.
-- Validar el mensaje de finalización de transacción.
+- Finalizar la venta con todos los datos. []
+- Finalizar la venta solo con el primer dato. []
+- Finalizar la venta solo con dos datos. []
+- Validar el valot final de la venta. []
+- Validar el mensaje de finalización de transacción. []
 
 ## Technologies 👨🏻‍💻
 
