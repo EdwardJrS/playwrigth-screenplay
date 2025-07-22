@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
 
-test ('add-some-products', async ({ page }) => {
+test ('add-all-products', async ({ page }) => {
   
   // data to testing
   const userData = ['standard_user', 'secret_sauce'];
@@ -13,11 +13,13 @@ test ('add-some-products', async ({ page }) => {
   await page.getByPlaceholder('Password').fill(userData[1]);
   await page.getByText('Login').click();
 
-  // find random product (6 = number of products)
-  const randomIndex = Math.floor(Math.random() * 6);
+  // Select contaioners product
+  const inventoryItems = await page.locator('//div[contains(@class,"inventory_item_description")]').all();
 
-  // select products
-  await page.locator(`(//button[contains(text(), "Add to cart")])[${randomIndex}]`).click();
-  await page.locator(`(//button[contains(text(), "Add to cart")])[${randomIndex}]`).click();
+  // Select random item  
+  for (let i = 0; i < inventoryItems.length; i++) {;
+    const getItem = inventoryItems[i];
+    await getItem.getByText('Add to cart').click();
+  }
 
 });

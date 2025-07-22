@@ -1,6 +1,6 @@
-import { test, expect } from '@playwright/test';
+import { test } from '@playwright/test';
 
-test ('login-with-empty-fields', async ({ page }) => {
+test ('select-product', async ({ page }) => {
   
   const userData = ['standard_user','secret_sauce'];
 

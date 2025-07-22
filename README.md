@@ -17,7 +17,15 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 |   |       logout.spec.ts
 |   |       
 |   +---select-products
+|   |       add-all-products.spec.ts
+|   |       add-and-remove-all-products.spec.ts
+|   |       add-left-the-product.spec.ts
+|   |       add-some-products.spec.ts
+|   |       select-product.spec.ts
+|   |       
 |   \---shopping-cart
+\---tests-examples
+        demo-todo-app.spec.ts
 ```
 
 # Set de pruebas ⚗️🧪
@@ -36,10 +44,10 @@ En esta rama se realizo un desarrollo simple, sin reutilización de codigo, sin 
 ## 2) Seleccionar Artículos 👔👖
 
 - Seleccionar un artículo. [✅]
-- Seleccionar varíos artículos. []
-- Seleccionar todos los artículos. []
-- Seleccionar y quitar el mismo artículo seleccionado. []
-- Seleccionar y quitar todos los artículos. []
+- Seleccionar varíos artículos. [✅]
+- Seleccionar todos los artículos. [✅]
+- Seleccionar y quitar el mismo artículo seleccionado. [✅]
+- Seleccionar y quitar todos los artículos. [✅]
 
 ## 3) Carrito 🛒
 
