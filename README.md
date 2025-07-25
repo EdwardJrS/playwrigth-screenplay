@@ -24,6 +24,9 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 |   |       select-product.spec.ts
 |   |       
 |   \---shopping-cart
+|           delete-products-since-cart.spec.ts
+|           validate-selected-products.spec.ts
+|           
 \---tests-examples
         demo-todo-app.spec.ts
 ```
