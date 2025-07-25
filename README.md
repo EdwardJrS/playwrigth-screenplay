@@ -51,8 +51,8 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 
 ## 3) Carrito 🛒
 
-- Validar artículos seleccionados. []
-- Eliminar artículos desde el carrito. []
+- Validar artículos seleccionados. [✅]
+- Eliminar artículos desde el carrito. [✅]
 
 ## 4) Finalizar venta ✅
 
