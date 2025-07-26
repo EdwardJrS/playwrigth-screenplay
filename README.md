@@ -59,10 +59,10 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 
 ## 4) Finalizar venta ✅
 
-- Finalizar la venta con todos los datos. []
-- Finalizar la venta solo con el primer dato. []
-- Finalizar la venta solo con dos datos. []
-- Validar el valot final de la venta. []
+- Finalizar la venta con todos los datos. [✅]
+- Finalizar la venta solo con el primer dato. [✅]
+- Finalizar la venta solo con dos datos. [✅]
+- Validar el valor final de la venta. []
 - Validar el mensaje de finalización de transacción. []
 
 ## Technologies 👨🏻‍💻
