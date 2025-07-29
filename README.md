@@ -3,10 +3,15 @@
 En esta rama se realizó un desarrollo simple, sin reutilización de código, sin buenas prácticas y sin patrones de diseño. Lo único que se tuvo en cuenta fue organizar la funcionalidades por carpeta.
 
 ```
++---test-results
 +---tests
 |   |   example.spec.ts
 |   |   
 |   +---complete-purchase
+|   |       complete-purchase-just-first-field.spec.ts
+|   |       complete-purchase-just-two-fields.spec.ts
+|   |       complete-purchase.spec.ts
+|   |       
 |   +---login-tests
 |   |       login-just-with-password.spec.ts
 |   |       login-just-with-username.spec.ts
@@ -26,6 +31,8 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 |   \---shopping-cart
 |           delete-products-since-cart.spec.ts
 |           validate-selected-products.spec.ts
+|           validate-success-message.spec.ts
+|           validate-total.spec.ts
 |           
 \---tests-examples
         demo-todo-app.spec.ts
@@ -62,14 +69,15 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 - Finalizar la venta con todos los datos. [✅]
 - Finalizar la venta solo con el primer dato. [✅]
 - Finalizar la venta solo con dos datos. [✅]
-- Validar el valor final de la venta. []
-- Validar el mensaje de finalización de transacción. []
+- Validar el valor final de la venta. [✅]
+- Validar el mensaje de finalización de transacción. [✅]
 
 ## Technologies 👨🏻‍💻
 
 - ![Static Badge](https://img.shields.io/badge/NodeJS-20.17.0-brightgreen)
 - ![Static Badge](https://img.shields.io/badge/Playwright-1.54.1-orange)
 - ![Static Badge](https://img.shields.io/badge/TypeScript-5.8-blue)
+- ![Static Badge](https://img.shields.io/badge/GitHub-Action-red)
 
 # How To Install
 
