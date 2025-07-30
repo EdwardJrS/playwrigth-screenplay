@@ -79,7 +79,7 @@ En esta rama se realizó un desarrollo simple, sin reutilización de código, si
 - ![Static Badge](https://img.shields.io/badge/TypeScript-5.8-blue)
 - ![Static Badge](https://img.shields.io/badge/GitHub-Action-red)
 
-# How To Install
+# How To Install Playwright
 
 To you can run the tests cases, you need follow de next steps
 
@@ -90,10 +90,15 @@ You need install `Playwright` 🎭 in project folder
 - Add a GitHub Actions workflow? This opcion is not required, can be true or false.
 - Install Playright browsers: can be done manually via '`npx playwright install`'. In this time, we will choose `true`.
 
-Is absolutely necessary install all package when you has cloned the repo recently.
+Is absolutely necessary install all package when you had cloned the repo recently.
+
+# How To Install Allure reporter
+
+## How to see the report
 
 ### Several commands
 
 - `npx playwright test` - Runs the end-to-end tests.
 - `tree /F /A > estructura.txt` - View project structure.
+- `npx playwright show-report` - View default report by playright.
 
